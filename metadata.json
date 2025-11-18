@@ -1,0 +1,5 @@
+{
+  "name": "Estrattore Dati Bollette",
+  "description": "Un'applicazione web intelligente che utilizza l'API di Gemini per estrarre automaticamente i dati chiave dalle immagini delle bollette di luce e gas. Carica una foto della tua bolletta e ottieni le informazioni importanti in un formato strutturato e di facile lettura.",
+  "requestFramePermissions": []
+}
